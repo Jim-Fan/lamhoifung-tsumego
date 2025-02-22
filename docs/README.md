@@ -10,8 +10,4 @@
 
 角上２x３加上兩邊伸腿，黑活。
 
-(TODO: Button to show board)
-
-<button onclick="window.alert('Hello!')">Click me to test Javascript</button>
-
 > 變化－其中一腿由扳黏改為倒虎，白棋有攻擊手段
