@@ -10,11 +10,11 @@
 
 角上六目形加上兩邊伸腿且二路緊貼，黑活。白S18點則黑T18扳；白外面扳則黑S18退。
 
-<img src="./assets/ch-2-shape-1.png" />
+<img src="./images/ch-2-shape-1.png" />
 
 > 變化：其中一腿改為倒虎（即大豬嘴加伸腿），黑活。白O19立下係攻擊要點，黑S19可活。
 
-<img src="./assets/ch-2-shape-1-a.png" />
+<img src="./images/ch-2-shape-1-a.png" />
 
 ### 基本型之二
 角上六目形無伸腿加上二路緊貼，黑死。黑立則白扳、點殺；黑二、１則白簡單刀五點中殺。
