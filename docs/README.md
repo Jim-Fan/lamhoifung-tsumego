@@ -45,3 +45,15 @@
 <img src="./images/ch-2-shape-3-1.png" />
 
 <img src="./images/ch-2-shape-3-1a.png" />
+
+> 變化二：豬鼻改為立下，白先劫。白棋最佳選點為R19，成為下形之後白先提劫。
+
+<img src="./images/ch-2-shape-3-2.png" />
+
+白S18夾同樣成劫，但此為黑寬兩氣劫，白要較多劫材。
+
+<img src="./images/ch-2-shape-3-2a.png" />
+
+另外書中提及此形無劫所以黑死，但明明黑棋有T19尋劫嘅可能，以後再探討：
+
+<img src="./images/ch-2-shape-3-2a.png" />
