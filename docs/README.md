@@ -56,4 +56,4 @@
 
 另外書中提及此形無劫所以黑死，但明明黑棋有T19尋劫嘅可能，以後再探討：
 
-<img src="./images/ch-2-shape-3-2a.png" />
+<img src="./images/ch-2-shape-3-2b.png" />
