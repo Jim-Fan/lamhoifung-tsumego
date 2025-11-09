@@ -98,4 +98,4 @@
 
 黑S19跳屬於自殺手，白簡單扳後黑無法抵抗。
 
-<img src="./images/ch-2-shape-4-2b.png" />
+<img src="./images/ch-2-shape-4-2c.png" />
