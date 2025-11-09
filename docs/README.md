@@ -83,3 +83,19 @@
 <img src="./images/ch-2-shape-4-1a.png" />
 
 <img src="./images/ch-2-shape-4-1b.png" />
+
+> 變化二：豬鼻改向外伸一路，白完全緊貼，黑先活。
+
+<img src="./images/ch-2-shape-4-2.png" />
+
+黑棋要活必須曲，僅此一手。
+
+<img src="./images/ch-2-shape-4-2a.png" />
+
+黑R19屬錯誤，導致劫殺。黑3如果改為T17，白S18後R18分斷、P19破眼成見合，不作贅述。
+
+<img src="./images/ch-2-shape-4-2b.png" />
+
+黑S19跳屬於自殺手，白簡單扳後黑無法抵抗。
+
+<img src="./images/ch-2-shape-4-2b.png" />
