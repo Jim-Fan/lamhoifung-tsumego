@@ -99,3 +99,25 @@
 黑S19跳屬於自殺手，白簡單扳後黑無法抵抗。
 
 <img src="./images/ch-2-shape-4-2c.png" />
+
+<!-- ============================================================ -->
+
+### 基本型之五
+
+小豬嘴嘅變形，原型有嘅外氣變成扳粘後緊貼，白先劫。
+
+<img src="./images/ch-2-shape-5.png" />
+
+白棋點、撲後成劫殺:
+
+<img src="./images/ch-2-shape-5-1a.png" />
+
+黑4改為撲，白7提後成劫。由於△一子撞氣，黑棋不能壓潰：
+
+<img src="./images/ch-2-shape-5-1b.png" />
+
+> 變化一：豬鼻改為向外伸一路，壓潰成立，黑活。
+
+<img src="./images/ch-2-shape-5-2a.png" />
+
+<img src="./images/ch-2-shape-5-2b.png" />
