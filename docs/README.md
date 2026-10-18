@@ -121,3 +121,35 @@
 <img src="./images/ch-2-shape-5-2a.png" />
 
 <img src="./images/ch-2-shape-5-2b.png" />
+
+<!-- ============================================================ -->
+
+### 基本型之六
+
+一般黑可活；淨活、雙活取決於攻擊方；而成劫與否取決於防守方。
+
+<img src="./images/ch-2-shape-6.png" />
+
+黑佔據二之2要點，可以淨活：
+
+<img src="./images/ch-2-shape-6-1a.png" />
+
+白棋不立而點、退，仍然為淨活：
+
+<img src="./images/ch-2-shape-6-1b.png" />
+
+白棋不退而衝，形成雙活：
+
+<img src="./images/ch-2-shape-6-1c.png" />
+
+黑棋外扳後不立而倒尖做眼，白棋撲後成黑先手劫：
+
+<img src="./images/ch-2-shape-6-1d.png" />
+
+黑棋5先撲，成後手劫：
+
+<img src="./images/ch-2-shape-6-1e.png" />
+
+黑先外扳失誤，斷點被白棋利用，兩邊扳成為見合，淨死：
+
+<img src="./images/ch-2-shape-6-1f.png" />
